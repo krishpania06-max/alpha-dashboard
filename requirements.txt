@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+requests
+python-dotenv
+finnhub-python
+vaderSentiment
+pytz
+cachetools
