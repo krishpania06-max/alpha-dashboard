@@ -1,0 +1,5 @@
+# Exclude virtual environment
+venv/
+
+# Exclude cache files
+__pycache__/
